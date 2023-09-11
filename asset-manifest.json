@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/js-regex-and-events-web-lab2/static/css/main.85e6edcb.css",
+    "main.js": "/js-regex-and-events-web-lab2/static/js/main.db70941a.js",
+    "index.html": "/js-regex-and-events-web-lab2/index.html",
+    "main.85e6edcb.css.map": "/js-regex-and-events-web-lab2/static/css/main.85e6edcb.css.map",
+    "main.db70941a.js.map": "/js-regex-and-events-web-lab2/static/js/main.db70941a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e6edcb.css",
+    "static/js/main.db70941a.js"
+  ]
+}
