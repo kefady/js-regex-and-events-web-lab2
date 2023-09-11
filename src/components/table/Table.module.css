@@ -1,0 +1,51 @@
+.container {
+    width: 700px;
+    max-width: 700px;
+    padding: 28px;
+    margin: 0 28px;
+    border-radius: 10px;
+    box-shadow: 0 15px 20px silver;
+}
+
+.inputContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.inputBox {
+    display: flex;
+    flex-basis: 50%;
+    padding: 15px;
+}
+
+.inputBox label {
+    color: #0d1b2a;
+    font-weight: 700;
+    margin: 5px 15px 5px 0;
+}
+
+.inputBox input {
+    flex: 1;
+    height: 40px;
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+.table {
+    aspect-ratio: 1;
+    width: 100%;
+    font-size: 26px;
+    font-weight: 700;
+    padding: 15px;
+}
+
+.table td {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid silver;
+}
+
+.table td:hover {
+    cursor: pointer;
+}
